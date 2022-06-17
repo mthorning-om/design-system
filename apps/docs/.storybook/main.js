@@ -17,7 +17,7 @@ module.exports = {
             find: "@mthorning-om/core",
             replacement: path.resolve(
               __dirname,
-              "../../../packages/mthorning-om-core/"
+              "../../../packages/mthorning-om-button/"
             ),
           },
         ],
