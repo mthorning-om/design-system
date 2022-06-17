@@ -1,5 +1,11 @@
 # @mthorning-om/button
 
+## 0.2.0
+
+### Minor Changes
+
+- 23e5667: linking package deps
+
 ## 0.1.0
 
 ### Minor Changes
