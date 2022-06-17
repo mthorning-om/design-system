@@ -14,7 +14,7 @@ module.exports = {
       resolve: {
         alias: [
           {
-            find: "@mthorning-om/core",
+            find: "@mthorning-om/button",
             replacement: path.resolve(
               __dirname,
               "../../../packages/mthorning-om-button/"
