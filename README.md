@@ -1,5 +1,4 @@
 # Turborepo Design System Starter
-
 This guide explains how to use a React design system starter powered by:
 
 - 🏎 [Turborepo](https://turborepo.org) — High-performance build system for Monorepos
