@@ -8,7 +8,7 @@ export interface ButtonProps {
 export function Button(props: ButtonProps) {
   return (
     <button style={{ background: "yellow", color: "black" }}>
-      {toSlug("hello & world")}
+      {toSlug("hello world")}
     </button>
   );
 }
