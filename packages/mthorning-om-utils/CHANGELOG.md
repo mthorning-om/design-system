@@ -1,5 +1,11 @@
 # @mthorning-om/utils
 
+## 0.1.0
+
+### Minor Changes
+
+- 8a9b1d4: remove whitespace around plus operator
+
 ## 0.0.1
 
 ### Patch Changes
