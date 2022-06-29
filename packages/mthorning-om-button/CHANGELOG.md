@@ -1,5 +1,15 @@
 # @mthorning-om/button
 
+## 1.0.0
+
+### Major Changes
+
+- removed/added whitespace again
+
+### Patch Changes
+
+- patch some things
+
 ## 0.2.1
 
 ### Patch Changes
