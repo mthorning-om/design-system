@@ -1,5 +1,5 @@
 import * as React from "react";
-import { toSlug } from "@mthorning-om/utils";
+import { helloWorld } from "@mthorning-om/utils";
 
 export interface ButtonProps {
   children: React.ReactNode;
@@ -8,7 +8,7 @@ export interface ButtonProps {
 export function Button(props: ButtonProps) {
   return (
     <button style={{ background: "yellow", color: "black" }}>
-      {toSlug("hello world")}
+      {helloWorld()}
     </button>
   );
 }
