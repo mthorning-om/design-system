@@ -1,5 +1,11 @@
 # @mthorning-om/button
 
+## 1.2.0
+
+### Minor Changes
+
+- f7d3782: update deps
+
 ## 1.1.2
 
 ### Patch Changes
