@@ -1,5 +1,11 @@
 # @mthorning-om/button
 
+## 1.1.0
+
+### Minor Changes
+
+- d297a44: add plus operator
+
 ## 1.0.2
 
 ### Patch Changes
