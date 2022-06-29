@@ -1,5 +1,11 @@
 # @mthorning-om/button
 
+## 1.1.1
+
+### Patch Changes
+
+- c812ead: patch button
+
 ## 1.1.0
 
 ### Minor Changes
