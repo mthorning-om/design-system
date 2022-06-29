@@ -1,5 +1,11 @@
 # @mthorning-om/button
 
+## 1.3.0
+
+### Minor Changes
+
+- d8f3c81: update to latest utils
+
 ## 1.2.0
 
 ### Minor Changes
