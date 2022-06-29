@@ -1,5 +1,11 @@
 # @mthorning-om/utils
 
+## 1.1.0
+
+### Minor Changes
+
+- 58a81d3: change default empty return to "nil"
+
 ## 1.0.2
 
 ### Patch Changes
