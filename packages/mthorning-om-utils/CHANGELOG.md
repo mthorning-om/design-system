@@ -1,5 +1,11 @@
 # @mthorning-om/utils
 
+## 1.6.0
+
+### Minor Changes
+
+- 9345f7e: add ?
+
 ## 1.5.0
 
 ### Minor Changes
