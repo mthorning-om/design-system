@@ -1,5 +1,11 @@
 # @mthorning-om/button
 
+## 1.0.2
+
+### Patch Changes
+
+- 5bf2778: trying to fix release action
+
 ## 1.0.1
 
 ### Patch Changes
