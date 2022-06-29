@@ -17,7 +17,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
-    "@mthorning-om/utils": "1.2.0"
+    "@mthorning-om/utils": "1.5.0"
   },
   "devDependencies": {
     "@mthorning-om/tsconfig": "*",
