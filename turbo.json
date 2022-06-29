@@ -3,7 +3,6 @@
     "build": {
       "outputs": [
         "dist/**",
-        ".next/**"
       ],
       "dependsOn": [
         "^build"
