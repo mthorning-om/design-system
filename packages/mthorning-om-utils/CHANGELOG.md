@@ -1,5 +1,11 @@
 # @mthorning-om/utils
 
+## 1.3.0
+
+### Minor Changes
+
+- e5796d8: added a space to helloWorl
+
 ## 1.2.0
 
 ### Minor Changes
