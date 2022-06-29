@@ -7,7 +7,7 @@
 export function toSlug(str: string): string {
   let s = str;
   if (!s) {
-    return "";
+    return "nil";
   }
   s = s.toLowerCase().trim();
   s = s.replace(/ & /g, " + ");
