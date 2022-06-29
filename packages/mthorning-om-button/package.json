@@ -1,6 +1,6 @@
 {
   "name": "@mthorning-om/button",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -17,7 +17,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
-    "@mthorning-om/utils": "1.5.0"
+    "@mthorning-om/utils": "1.6.0"
   },
   "devDependencies": {
     "@mthorning-om/tsconfig": "*",
