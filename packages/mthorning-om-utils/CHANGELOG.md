@@ -1,5 +1,11 @@
 # @mthorning-om/utils
 
+## 1.0.1
+
+### Patch Changes
+
+- fa1f084: make all packages private
+
 ## 1.0.0
 
 ### Major Changes
