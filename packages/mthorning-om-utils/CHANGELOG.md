@@ -1,5 +1,11 @@
 # @mthorning-om/utils
 
+## 1.2.0
+
+### Minor Changes
+
+- 3773a9e: changed button to use helloWorld function
+
 ## 1.1.0
 
 ### Minor Changes

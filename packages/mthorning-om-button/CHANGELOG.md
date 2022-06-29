@@ -1,5 +1,11 @@
 # @mthorning-om/button
 
+## 1.1.2
+
+### Patch Changes
+
+- 3773a9e: changed button to use helloWorld function
+
 ## 1.1.1
 
 ### Patch Changes
