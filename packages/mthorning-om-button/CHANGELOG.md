@@ -1,5 +1,12 @@
 # @mthorning-om/button
 
+## 1.3.2
+
+### Patch Changes
+
+- Updated dependencies [b86243d]
+  - @mthorning-om/utils@1.6.1
+
 ## 1.3.1
 
 ### Patch Changes
