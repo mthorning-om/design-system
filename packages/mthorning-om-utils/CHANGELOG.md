@@ -1,5 +1,11 @@
 # @mthorning-om/utils
 
+## 1.6.1
+
+### Patch Changes
+
+- b86243d: fix hello world text
+
 ## 1.6.0
 
 ### Minor Changes
